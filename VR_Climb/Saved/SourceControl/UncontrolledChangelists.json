@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Blueprints/BP_climbable.uasset",
+				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset"
 			]
 		}
 	]
