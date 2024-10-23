@@ -131,7 +131,9 @@
 				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Materials/M_Projectile.uasset",
 				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Blueprints/GrabComponent.uasset",
 				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Blueprints/GrabType.uasset",
-				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Haptics/GrabHapticEffect.uasset"
+				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VRTemplate/Haptics/GrabHapticEffect.uasset",
+				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VRTemplateMap_sharedassets/Grass_LayerInfo.uasset",
+				"C:/Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VRTemplateMap_sharedassets/Slate_LayerInfo.uasset"
 			]
 		}
 	]
