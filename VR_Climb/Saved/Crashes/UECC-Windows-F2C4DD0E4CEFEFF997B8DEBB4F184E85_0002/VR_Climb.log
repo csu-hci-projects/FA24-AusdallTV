@@ -2816,28 +2816,3 @@ Script Stack (0 frames) :
 [2024.10.24-17.17.03:343][699]LogOutputDevice: Error: [Callstack] 0x00007ffe456f257d KERNEL32.DLL!UnknownFunction []
 [2024.10.24-17.17.03:343][699]LogOutputDevice: Error: [Callstack] 0x00007ffe4778af08 ntdll.dll!UnknownFunction []
 [2024.10.24-17.17.03:343][699]LogOutputDevice: Error: 
-[2024.10.24-17.17.03:347][699]LogStats:                SubmitErrorReport -  0.000 s
-[2024.10.24-17.17.04:744][699]LogStats:                    SendNewReport -  1.396 s
-[2024.10.24-17.17.04:744][699]LogStats:             FDebug::EnsureFailed -  1.419 s
-[2024.10.24-17.17.05:955][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.10.24-17.17.05:955][993]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VR_Map
-[2024.10.24-17.17.05:972][993]LogSlate: Window 'VR_Climb Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.101.0)' being destroyed
-[2024.10.24-17.17.05:975][993]LogWorld: UWorld::CleanupWorld for VR_Map, bSessionEnded=true, bCleanupResources=true
-[2024.10.24-17.17.05:976][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.10.24-17.17.05:978][993]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2024.10.24-17.17.05:982][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.10.24-17.17.05:991][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
-[2024.10.24-17.17.05:991][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
-[2024.10.24-17.17.05:993][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
-[2024.10.24-17.17.05:999][993]LogSlate: Slate User Unregistered.  User Index 8
-[2024.10.24-17.17.05:999][993]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
-[2024.10.24-17.17.06:000][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
-[2024.10.24-17.17.06:064][994]LogPlayLevel: Display: Destroying online subsystem :Context_18
-[2024.10.24-17.17.27:509][461]LogHttp: Warning: 00000B3B1761E100: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2024.10.24-17.17.27:509][461]LogHttp: Warning: 00000B3B1761E100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
-[2024.10.24-17.17.27:509][461]LogHttp: Warning: 00000B3B1761E100: libcurl info message cache 1 (Closing connection)
-[2024.10.24-17.17.27:509][461]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
-[2024.10.24-17.18.27:523][641]LogHttp: Warning: 00000B3B17610A00: request failed, libcurl error: 6 (Couldn't resolve host name)
-[2024.10.24-17.18.27:523][641]LogHttp: Warning: 00000B3B17610A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
-[2024.10.24-17.18.27:523][641]LogHttp: Warning: 00000B3B17610A00: libcurl info message cache 1 (Closing connection)
-[2024.10.24-17.18.27:523][641]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
