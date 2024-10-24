@@ -2841,3 +2841,1267 @@ Script Stack (0 frames) :
 [2024.10.24-17.18.27:523][641]LogHttp: Warning: 00000B3B17610A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2024.10.24-17.18.27:523][641]LogHttp: Warning: 00000B3B17610A00: libcurl info message cache 1 (Closing connection)
 [2024.10.24-17.18.27:523][641]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.19.27:637][843]LogHttp: Warning: 00000B3B17615500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.19.27:638][843]LogHttp: Warning: 00000B3B17615500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.19.27:638][843]LogHttp: Warning: 00000B3B17615500: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.19.27:638][843]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.20.27:644][ 23]LogHttp: Warning: 00000B3B17615A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.20.27:644][ 23]LogHttp: Warning: 00000B3B17615A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.20.27:644][ 23]LogHttp: Warning: 00000B3B17615A00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.20.27:644][ 23]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.21.27:646][203]LogHttp: Warning: 00000B3B1761F500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.21.27:646][203]LogHttp: Warning: 00000B3B1761F500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.21.27:646][203]LogHttp: Warning: 00000B3B1761F500: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.21.27:646][203]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.22.27:649][383]LogHttp: Warning: 00000B3B1761BE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.22.27:649][383]LogHttp: Warning: 00000B3B1761BE00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.22.27:649][383]LogHttp: Warning: 00000B3B1761BE00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.22.27:649][383]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.23.27:660][563]LogHttp: Warning: 00000B3B1761C800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.23.27:660][563]LogHttp: Warning: 00000B3B1761C800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.23.27:660][563]LogHttp: Warning: 00000B3B1761C800: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.23.27:660][563]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.24.27:672][743]LogHttp: Warning: 00000B3B17616400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.24.27:672][743]LogHttp: Warning: 00000B3B17616400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.24.27:672][743]LogHttp: Warning: 00000B3B17616400: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.24.27:672][743]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.25.27:678][923]LogHttp: Warning: 00000B3B1761EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.25.27:678][923]LogHttp: Warning: 00000B3B1761EB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.25.27:678][923]LogHttp: Warning: 00000B3B1761EB00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.25.27:678][923]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.26.12:221][ 56]LogSlate: Window 'Grabbable_SmallCube' being destroyed
+[2024.10.24-17.26.12:222][ 56]LogSlate: Window 'Grabbable_SmallCube' being destroyed
+[2024.10.24-17.26.12:234][ 56]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.26.12:234][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.26.12:250][ 56]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.26.12:250][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.26.12:270][ 56]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.24-17.26.12:270][ 56]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.26.12:270][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.26.27:111][733]LogHttp: Warning: 00000B3B17608700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.26.27:111][733]LogHttp: Warning: 00000B3B17608700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.26.27:111][733]LogHttp: Warning: 00000B3B17608700: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.26.27:111][733]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.27.27:477][195]LogHttp: Warning: 00000B3B15A7E600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.27.27:477][195]LogHttp: Warning: 00000B3B15A7E600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.27.27:477][195]LogHttp: Warning: 00000B3B15A7E600: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.27.27:477][195]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.27.28:512][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.24-17.27.28:519][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VR/Maps/VR_Map' took 0.019
+[2024.10.24-17.27.28:519][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR/Maps/VR_Map_sharedassets/Slate_LayerInfo] ([1] browsable assets)...
+[2024.10.24-17.27.28:519][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Maps/VR_Map_sharedassets/Slate_LayerInfo]
+[2024.10.24-17.27.28:520][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Maps/VR_Map_sharedassets/Slate_LayerInfo_Auto1
+[2024.10.24-17.27.28:520][197]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Slate_LayerInfo_Auto140A45C024C094AF2F00746A2F2015AD9.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Autosaves/Game/VR/Maps/VR_Map_sharedassets/Slate_LayerInfo_Auto1.uasset'
+[2024.10.24-17.27.28:520][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR/Maps/VR_Map_sharedassets/Snow_LayerInfo] ([1] browsable assets)...
+[2024.10.24-17.27.28:520][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Maps/VR_Map_sharedassets/Snow_LayerInfo]
+[2024.10.24-17.27.28:521][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Maps/VR_Map_sharedassets/Snow_LayerInfo_Auto1
+[2024.10.24-17.27.28:521][197]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Snow_LayerInfo_Auto1149B30AF44C45DE2916CAC870AF138FC.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Autosaves/Game/VR/Maps/VR_Map_sharedassets/Snow_LayerInfo_Auto1.uasset'
+[2024.10.24-17.27.28:521][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR/Maps/VR_Map_sharedassets/Grass_LayerInfo] ([1] browsable assets)...
+[2024.10.24-17.27.28:521][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR/Maps/VR_Map_sharedassets/Grass_LayerInfo]
+[2024.10.24-17.27.28:522][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VR/Maps/VR_Map_sharedassets/Grass_LayerInfo_Auto1
+[2024.10.24-17.27.28:522][197]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Grass_LayerInfo_Auto1308AF9C14E79A4865290EFBE7C997008.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Autosaves/Game/VR/Maps/VR_Map_sharedassets/Grass_LayerInfo_Auto1.uasset'
+[2024.10.24-17.27.28:522][197]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.10.24-17.28.27:517][116]LogHttp: Warning: 00000B3B03147D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.28.27:517][116]LogHttp: Warning: 00000B3B03147D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.28.27:517][116]LogHttp: Warning: 00000B3B03147D00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.28.27:517][116]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.29.04:110][796]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.29.04:113][796]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.29.04:113][796]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.29.04:214][796]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.29.04:214][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.29.04:214][796]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.29.04:220][796]LogViewport: Scene viewport resized to 435x373, mode Windowed.
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Total job queries 417, among them cache hits 122 (29.26%)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Tracking 295 distinct input hashes that result in 160 distinct outputs (54.24%)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: RAM used: 11.44 MiB of 3.20 GiB budget. Usage: 0.35%
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Shaders Compiled: 234
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Jobs assigned 234, completed 234 (100%)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Average time worker was idle: 38.21 s
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Time job spent in pending queue: average 1.68 s, longest 5.70 s
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Job execution time: average 0.77 s, max 1.57 s
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Job life time (pending + execution): average 2.46 s, max 6.51
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Shader code size: average 72.033 KiB, min 3.465 KiB, max 95.316 KiB
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.51 s
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Jobs were issued in 234 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Average processing rate: 7.43 jobs/sec
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Total thread time: 157.991 s
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Total thread preprocess time: 6.416 s
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Percentage time preprocessing: 4.06%
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Effective parallelization: 5.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    7 times, average 1.36 sec, max 1.44 sec, min 1.20 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.35 sec, max 1.40 sec, min 1.24 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    7 times, average 1.33 sec, max 1.44 sec, min 1.14 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.33 sec, max 1.42 sec, min 1.16 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    7 times, average 1.31 sec, max 1.38 sec, min 1.22 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.05% of total time (compiled   23 times, average 0.62 sec, max 1.39 sec, min 0.14 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.96% of total time (compiled   11 times, average 1.14 sec, max 1.37 sec, min 0.97 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 7.08% of total time (compiled    9 times, average 1.24 sec, max 1.45 sec, min 1.04 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.40% of total time (compiled    8 times, average 1.26 sec, max 1.39 sec, min 1.16 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 6.03% of total time (compiled    7 times, average 1.36 sec, max 1.44 sec, min 1.20 sec)
+[2024.10.24-17.29.04:257][797]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.29.04:275][798]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.29.04:275][798]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.29.04:275][798]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.29.04:275][798]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.29.15:875][ 59]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.29.15:875][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.29.15:875][ 59]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.29.15:907][ 60]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.29.15:907][ 60]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.29.15:907][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.29.15:907][ 60]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.29.25:522][103]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.29.25:522][103]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.29.25:522][103]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.29.25:570][105]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.29.25:570][105]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.29.25:570][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.29.25:570][105]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.29.27:096][281]LogHttp: Warning: 00000B3AF294AA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.29.27:097][281]LogHttp: Warning: 00000B3AF294AA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.29.27:097][281]LogHttp: Warning: 00000B3AF294AA00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.29.27:097][281]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.30.03:951][871]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.30.03:951][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.03:951][871]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.30.03:996][873]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.30.03:996][873]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.30.03:996][873]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.03:996][873]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.30.14:204][ 49]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.30.14:212][ 49]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.30.14:212][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.14:212][ 49]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.30.14:223][ 50]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.30.14:223][ 50]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.30.14:223][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.14:223][ 50]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.30.16:974][347]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.30.16:974][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.16:974][347]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.30.17:016][350]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.30.17:016][350]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.30.17:016][350]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.17:016][350]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.30.26:146][394]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.30.26:146][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.26:146][394]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.30.26:409][423]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.30.26:409][423]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.30.26:409][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.26:409][423]MaterialEditorStats: Shader Count: 1
+[2024.10.24-17.30.27:108][507]LogHttp: Warning: 00000B3B15B9C300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.30.27:108][507]LogHttp: Warning: 00000B3B15B9C300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.30.27:108][507]LogHttp: Warning: 00000B3B15B9C300: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.30.27:108][507]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.30.29:801][810]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2024.10.24-17.30.30:025][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.24-17.30.30:469][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.24-17.30.30:480][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.30.32:512][810]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.10.24-17.30.33:209][810]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 2.701328s (0.701328s overbudget)
+[2024.10.24-17.30.33:235][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/LandscapeMat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset" SILENT=true
+[2024.10.24-17.30.33:237][810]LogSavePackage: Moving output files for package: /Game/VR/Materials/LandscapeMat
+[2024.10.24-17.30.33:237][810]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/LandscapeMat107211164A0AAADC264384A7300B12AD.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset'
+[2024.10.24-17.30.33:269][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.78 sec (total: 7.69 sec)
+[2024.10.24-17.30.33:270][810]AssetCheck: New page: Asset Save: LandscapeMat
+[2024.10.24-17.30.33:270][810]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.30.33:295][811]LogAutomationController: Ignoring very large delta of 3.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.24-17.30.34:287][890]MaterialEditorStats: Base pass shader: 485 instructions
+[2024.10.24-17.30.34:287][890]MaterialEditorStats: Base pass shader with Surface Lightmap: 526 instructions
+[2024.10.24-17.30.34:287][890]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.30.34:287][890]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.30.34:287][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.34:287][890]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.30.57:888][391]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.30.57:895][391]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.30.57:895][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.57:895][391]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.30.57:904][392]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.30.57:904][392]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.30.57:904][392]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.30.57:904][392]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.03:196][996]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.03:196][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.03:196][996]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.03:247][998]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.03:247][998]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.03:247][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.03:247][998]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.06:970][426]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.06:970][426]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.06:970][426]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.07:013][428]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.07:013][428]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.07:013][428]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.07:013][428]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.08:018][545]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.08:018][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.08:018][545]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.08:052][547]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.08:052][547]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.08:052][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.08:052][547]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.08:513][599]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.08:513][599]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.08:513][599]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.08:548][601]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.08:548][601]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.08:548][601]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.08:548][601]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.10:965][880]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.10:965][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.10:965][880]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.11:007][883]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.11:007][883]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.11:007][883]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.11:007][883]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.12:264][ 20]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.12:264][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.12:264][ 20]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.12:304][ 23]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.12:304][ 23]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.12:304][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.12:304][ 23]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.20:709][997]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.31.20:716][997]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.20:716][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.20:716][997]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.20:726][998]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.20:726][998]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.20:726][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.20:726][998]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.27:117][746]LogHttp: Warning: 00000B3B1951DC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.31.27:118][746]LogHttp: Warning: 00000B3B1951DC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.31.27:118][746]LogHttp: Warning: 00000B3B1951DC00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.31.27:118][746]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.31.35:880][766]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.31.35:888][766]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.35:888][766]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.35:888][766]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.35:897][767]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.35:897][767]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.35:897][767]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.35:897][767]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.38:228][ 37]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2024.10.24-17.31.38:286][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.10.24-17.31.38:438][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.10.24-17.31.38:449][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.31.38:494][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/LandscapeMat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset" SILENT=true
+[2024.10.24-17.31.38:496][ 37]LogSavePackage: Moving output files for package: /Game/VR/Materials/LandscapeMat
+[2024.10.24-17.31.38:497][ 37]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/LandscapeMat043A19C94A6191C807859DA9655347BE.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset'
+[2024.10.24-17.31.38:505][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 7.75 sec)
+[2024.10.24-17.31.38:506][ 37]AssetCheck: New page: Asset Save: LandscapeMat
+[2024.10.24-17.31.38:506][ 37]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.31.38:529][ 37]MaterialEditorStats: Base pass shader: 485 instructions
+[2024.10.24-17.31.38:529][ 37]MaterialEditorStats: Base pass shader with Surface Lightmap: 526 instructions
+[2024.10.24-17.31.38:529][ 37]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.38:529][ 37]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.31.38:529][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.38:529][ 37]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.31.51:775][490]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.31.51:781][490]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.31.51:781][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.51:781][490]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.31.51:791][491]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.51:791][491]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.31.51:791][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.51:791][491]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.31.52:766][602]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2024.10.24-17.31.52:822][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.24-17.31.52:971][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.10.24-17.31.52:987][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.31.53:043][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/LandscapeMat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset" SILENT=true
+[2024.10.24-17.31.53:046][602]LogSavePackage: Moving output files for package: /Game/VR/Materials/LandscapeMat
+[2024.10.24-17.31.53:046][602]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/LandscapeMat1BA90D24435BA37BBB04928A3D881E67.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset'
+[2024.10.24-17.31.53:055][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.82 sec)
+[2024.10.24-17.31.53:057][602]AssetCheck: New page: Asset Save: LandscapeMat
+[2024.10.24-17.31.53:057][602]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.31.53:081][602]MaterialEditorStats: Base pass shader: 485 instructions
+[2024.10.24-17.31.53:081][602]MaterialEditorStats: Base pass shader with Surface Lightmap: 526 instructions
+[2024.10.24-17.31.53:081][602]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.31.53:081][602]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.31.53:081][602]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.31.53:081][602]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.32.05:982][ 33]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.32.05:989][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.32.05:989][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.05:989][ 33]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Total job queries 686, among them cache hits 308 (44.90%)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Tracking 378 distinct input hashes that result in 190 distinct outputs (50.26%)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: RAM used: 14.03 MiB of 3.20 GiB budget. Usage: 0.43%
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Shaders Compiled: 309
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Jobs assigned 309, completed 309 (100%)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Average time worker was idle: 70.58 s
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Time job spent in pending queue: average 1.33 s, longest 5.70 s
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 1.58 s
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Job life time (pending + execution): average 2.05 s, max 6.51
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Shader code size: average 68.801 KiB, min 3.465 KiB, max 95.316 KiB
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.91 s
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Jobs were issued in 309 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Average processing rate: 7.55 jobs/sec
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Total thread time: 193.974 s
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Total thread preprocess time: 7.787 s
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Percentage time preprocessing: 4.01%
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Effective parallelization: 4.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 1.36 sec, max 1.40 sec, min 1.24 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    8 times, average 1.35 sec, max 1.44 sec, min 1.20 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    8 times, average 1.33 sec, max 1.44 sec, min 1.14 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 1.32 sec, max 1.42 sec, min 1.16 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    8 times, average 1.32 sec, max 1.38 sec, min 1.22 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 12.06% of total time (compiled   19 times, average 1.23 sec, max 1.45 sec, min 1.04 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.69% of total time (compiled   32 times, average 0.53 sec, max 1.39 sec, min 0.14 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.99% of total time (compiled   12 times, average 1.13 sec, max 1.37 sec, min 0.97 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.92% of total time (compiled    9 times, average 1.28 sec, max 1.39 sec, min 1.16 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.60% of total time (compiled    8 times, average 1.36 sec, max 1.40 sec, min 1.24 sec)
+[2024.10.24-17.32.05:990][ 33]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.32.05:999][ 34]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.05:999][ 34]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.32.05:999][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.05:999][ 34]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.32.12:280][734]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2024.10.24-17.32.12:336][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.24-17.32.12:484][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.10.24-17.32.12:496][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.32.12:545][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/LandscapeMat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset" SILENT=true
+[2024.10.24-17.32.12:547][734]LogSavePackage: Moving output files for package: /Game/VR/Materials/LandscapeMat
+[2024.10.24-17.32.12:547][734]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/LandscapeMatC1014A584E612093C85356980CF207D7.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset'
+[2024.10.24-17.32.12:556][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 7.88 sec)
+[2024.10.24-17.32.12:557][734]AssetCheck: New page: Asset Save: LandscapeMat
+[2024.10.24-17.32.12:557][734]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.32.12:579][734]MaterialEditorStats: Base pass shader: 485 instructions
+[2024.10.24-17.32.12:579][734]MaterialEditorStats: Base pass shader with Surface Lightmap: 526 instructions
+[2024.10.24-17.32.12:579][734]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.12:579][734]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.32.12:579][734]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.12:579][734]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.32.26:357][263]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.32.26:357][263]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.26:357][263]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.32.26:399][266]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.26:399][266]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.32.26:399][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.26:399][266]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.32.27:094][344]LogHttp: Warning: 00000B3B18681E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.32.27:094][344]LogHttp: Warning: 00000B3B18681E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.32.27:094][344]LogHttp: Warning: 00000B3B18681E00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.32.27:094][344]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.32.27:367][376]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.32.27:374][376]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.32.27:374][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.27:374][376]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.32.27:413][379]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.27:413][379]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.32.27:413][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.27:413][379]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.32.31:954][870]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2024.10.24-17.32.32:009][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.24-17.32.32:155][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.10.24-17.32.32:165][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.32.32:216][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/LandscapeMat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset" SILENT=true
+[2024.10.24-17.32.32:219][870]LogSavePackage: Moving output files for package: /Game/VR/Materials/LandscapeMat
+[2024.10.24-17.32.32:219][870]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/LandscapeMat44847DB34189AE95A4C7139CCE710D1B.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset'
+[2024.10.24-17.32.32:228][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 7.94 sec)
+[2024.10.24-17.32.32:230][870]AssetCheck: New page: Asset Save: LandscapeMat
+[2024.10.24-17.32.32:230][870]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.32.32:254][870]MaterialEditorStats: Base pass shader: 485 instructions
+[2024.10.24-17.32.32:254][870]MaterialEditorStats: Base pass shader with Surface Lightmap: 526 instructions
+[2024.10.24-17.32.32:254][870]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.32:254][870]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.32.32:254][870]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.32:254][870]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.32.38:064][377]LogViewport: Scene viewport resized to 435x372, mode Windowed.
+[2024.10.24-17.32.38:086][377]LogViewport: Scene viewport resized to 435x370, mode Windowed.
+[2024.10.24-17.32.38:111][377]LogViewport: Scene viewport resized to 435x368, mode Windowed.
+[2024.10.24-17.32.38:130][377]LogViewport: Scene viewport resized to 435x366, mode Windowed.
+[2024.10.24-17.32.38:154][377]LogViewport: Scene viewport resized to 435x361, mode Windowed.
+[2024.10.24-17.32.38:177][377]LogViewport: Scene viewport resized to 435x356, mode Windowed.
+[2024.10.24-17.32.38:195][377]LogViewport: Scene viewport resized to 435x352, mode Windowed.
+[2024.10.24-17.32.38:215][377]LogViewport: Scene viewport resized to 435x347, mode Windowed.
+[2024.10.24-17.32.38:238][377]LogViewport: Scene viewport resized to 435x343, mode Windowed.
+[2024.10.24-17.32.38:262][377]LogViewport: Scene viewport resized to 435x336, mode Windowed.
+[2024.10.24-17.32.38:286][377]LogViewport: Scene viewport resized to 435x329, mode Windowed.
+[2024.10.24-17.32.38:310][377]LogViewport: Scene viewport resized to 435x323, mode Windowed.
+[2024.10.24-17.32.38:329][377]LogViewport: Scene viewport resized to 435x316, mode Windowed.
+[2024.10.24-17.32.38:347][377]LogViewport: Scene viewport resized to 435x311, mode Windowed.
+[2024.10.24-17.32.38:371][377]LogViewport: Scene viewport resized to 435x306, mode Windowed.
+[2024.10.24-17.32.38:395][377]LogViewport: Scene viewport resized to 435x297, mode Windowed.
+[2024.10.24-17.32.38:414][377]LogViewport: Scene viewport resized to 435x287, mode Windowed.
+[2024.10.24-17.32.38:438][377]LogViewport: Scene viewport resized to 435x281, mode Windowed.
+[2024.10.24-17.32.38:456][377]LogViewport: Scene viewport resized to 435x275, mode Windowed.
+[2024.10.24-17.32.38:475][377]LogViewport: Scene viewport resized to 435x270, mode Windowed.
+[2024.10.24-17.32.38:499][377]LogViewport: Scene viewport resized to 435x265, mode Windowed.
+[2024.10.24-17.32.38:523][377]LogViewport: Scene viewport resized to 435x260, mode Windowed.
+[2024.10.24-17.32.38:541][377]LogViewport: Scene viewport resized to 435x256, mode Windowed.
+[2024.10.24-17.32.38:566][377]LogViewport: Scene viewport resized to 435x253, mode Windowed.
+[2024.10.24-17.32.38:589][377]LogViewport: Scene viewport resized to 435x250, mode Windowed.
+[2024.10.24-17.32.38:608][377]LogViewport: Scene viewport resized to 435x246, mode Windowed.
+[2024.10.24-17.32.38:632][377]LogViewport: Scene viewport resized to 435x243, mode Windowed.
+[2024.10.24-17.32.38:656][377]LogViewport: Scene viewport resized to 435x239, mode Windowed.
+[2024.10.24-17.32.38:675][377]LogViewport: Scene viewport resized to 435x236, mode Windowed.
+[2024.10.24-17.32.38:698][377]LogViewport: Scene viewport resized to 435x233, mode Windowed.
+[2024.10.24-17.32.38:716][377]LogViewport: Scene viewport resized to 435x230, mode Windowed.
+[2024.10.24-17.32.38:736][377]LogViewport: Scene viewport resized to 435x227, mode Windowed.
+[2024.10.24-17.32.38:759][377]LogViewport: Scene viewport resized to 435x226, mode Windowed.
+[2024.10.24-17.32.38:778][377]LogViewport: Scene viewport resized to 435x224, mode Windowed.
+[2024.10.24-17.32.38:796][377]LogViewport: Scene viewport resized to 435x223, mode Windowed.
+[2024.10.24-17.32.38:820][377]LogViewport: Scene viewport resized to 435x222, mode Windowed.
+[2024.10.24-17.32.38:838][377]LogViewport: Scene viewport resized to 435x220, mode Windowed.
+[2024.10.24-17.32.38:899][377]LogViewport: Scene viewport resized to 435x219, mode Windowed.
+[2024.10.24-17.32.38:917][377]LogViewport: Scene viewport resized to 435x218, mode Windowed.
+[2024.10.24-17.32.38:935][377]LogViewport: Scene viewport resized to 435x217, mode Windowed.
+[2024.10.24-17.32.38:978][377]LogViewport: Scene viewport resized to 435x216, mode Windowed.
+[2024.10.24-17.32.45:497][ 33]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.32.45:504][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.32.45:504][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.45:504][ 33]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.32.45:514][ 34]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.45:514][ 34]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.32.45:514][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.45:514][ 34]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.32.48:466][384]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2024.10.24-17.32.48:508][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.24-17.32.48:674][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.10.24-17.32.48:687][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.32.48:732][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/LandscapeMat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset" SILENT=true
+[2024.10.24-17.32.48:733][384]LogSavePackage: Moving output files for package: /Game/VR/Materials/LandscapeMat
+[2024.10.24-17.32.48:734][384]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/LandscapeMatF629AF1F4D636AFC1C005EB7020736AC.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset'
+[2024.10.24-17.32.48:742][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 7.99 sec)
+[2024.10.24-17.32.48:744][384]AssetCheck: New page: Asset Save: LandscapeMat
+[2024.10.24-17.32.48:744][384]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.32.48:768][384]MaterialEditorStats: Base pass shader: 485 instructions
+[2024.10.24-17.32.48:768][384]MaterialEditorStats: Base pass shader with Surface Lightmap: 526 instructions
+[2024.10.24-17.32.48:768][384]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.48:768][384]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.32.48:768][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.48:768][384]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.32.54:250][989]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.32.54:256][989]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.32.54:256][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.54:256][989]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.32.54:266][990]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.54:266][990]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.32.54:266][990]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.54:266][990]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.32.54:865][ 58]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2024.10.24-17.32.54:916][ 58]LogUObjectHash: Compacting FUObjectHashTables data took  10.27ms
+[2024.10.24-17.32.55:062][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.10.24-17.32.55:075][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.32.55:125][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/LandscapeMat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset" SILENT=true
+[2024.10.24-17.32.55:128][ 58]LogSavePackage: Moving output files for package: /Game/VR/Materials/LandscapeMat
+[2024.10.24-17.32.55:128][ 58]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/LandscapeMatE6681D7D4ACBC79CA4FA6987F68DE3B6.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset'
+[2024.10.24-17.32.55:137][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 8.06 sec)
+[2024.10.24-17.32.55:140][ 58]AssetCheck: New page: Asset Save: LandscapeMat
+[2024.10.24-17.32.55:140][ 58]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.32.55:164][ 58]MaterialEditorStats: Base pass shader: 485 instructions
+[2024.10.24-17.32.55:164][ 58]MaterialEditorStats: Base pass shader with Surface Lightmap: 526 instructions
+[2024.10.24-17.32.55:164][ 58]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.32.55:164][ 58]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.32.55:164][ 58]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.32.55:164][ 58]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.32.59:993][586]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.33.00:000][586]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.33.00:000][586]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.33.00:000][586]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.33.00:010][587]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.33.00:010][587]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.33.00:010][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.33.00:010][587]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.33.00:442][635]LogMaterialEditor: Saving and Compiling material LandscapeMat
+[2024.10.24-17.33.00:494][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.10.24-17.33.00:650][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.24-17.33.00:660][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.33.00:711][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/LandscapeMat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset" SILENT=true
+[2024.10.24-17.33.00:714][635]LogSavePackage: Moving output files for package: /Game/VR/Materials/LandscapeMat
+[2024.10.24-17.33.00:714][635]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/LandscapeMatB503618047E6ACC0200EF4A647203736.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/LandscapeMat.uasset'
+[2024.10.24-17.33.00:722][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 8.12 sec)
+[2024.10.24-17.33.00:724][635]AssetCheck: New page: Asset Save: LandscapeMat
+[2024.10.24-17.33.00:724][635]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/LandscapeMat.LandscapeMat
+[2024.10.24-17.33.00:747][635]MaterialEditorStats: Base pass shader: 485 instructions
+[2024.10.24-17.33.00:748][635]MaterialEditorStats: Base pass shader with Surface Lightmap: 526 instructions
+[2024.10.24-17.33.00:748][635]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.33.00:748][635]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.33.00:748][635]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.33.00:748][635]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.33.14:238][201]LogSlate: Window 'LandscapeMat' being destroyed
+[2024.10.24-17.33.14:243][201]LogSlate: Window 'LandscapeMat' being destroyed
+[2024.10.24-17.33.14:253][201]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.33.14:253][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.33.27:115][729]LogHttp: Warning: 00000B3B21298200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.33.27:115][729]LogHttp: Warning: 00000B3B21298200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.33.27:115][729]LogHttp: Warning: 00000B3B21298200: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.33.27:115][729]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.33.32:767][405]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR/Blueprints/VRPawn.VRPawn
+[2024.10.24-17.33.32:767][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.33.32:767][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.33.35:071][609]LogViewport: Scene viewport resized to 1319x410, mode Windowed.
+[2024.10.24-17.33.37:770][845]LogViewport: Scene viewport resized to 1525x1227, mode Windowed.
+[2024.10.24-17.34.08:801][234]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.34.08:834][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/VRPawn" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/VRPawn.uasset" SILENT=true
+[2024.10.24-17.34.08:901][234]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/VRPawn
+[2024.10.24-17.34.08:901][234]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VRPawnEE4E7C324DC9A040C70A9D9E8C6DD06F.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/VRPawn.uasset'
+[2024.10.24-17.34.08:907][234]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 8.22 sec)
+[2024.10.24-17.34.08:908][234]AssetCheck: New page: Asset Save: VRPawn
+[2024.10.24-17.34.08:908][234]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VR/Blueprints/VRPawn.VRPawn
+[2024.10.24-17.34.16:198][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.34.18:478][981]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.34.18:553][985]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.34.27:116][765]LogHttp: Warning: 00000B3B192EB400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.34.27:116][765]LogHttp: Warning: 00000B3B192EB400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.34.27:116][765]LogHttp: Warning: 00000B3B192EB400: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.34.27:116][765]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.34.34:999][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.34.47:787][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.34.49:819][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.34.49:853][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/VRPawn" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/VRPawn.uasset" SILENT=true
+[2024.10.24-17.34.49:920][648]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/VRPawn
+[2024.10.24-17.34.49:920][648]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VRPawn799F851A4CDB3EA9A4A8A6AD4180A161.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/VRPawn.uasset'
+[2024.10.24-17.34.49:927][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 8.33 sec)
+[2024.10.24-17.34.49:928][648]AssetCheck: New page: Asset Save: VRPawn
+[2024.10.24-17.34.49:928][648]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VR/Blueprints/VRPawn.VRPawn
+[2024.10.24-17.34.50:938][731]BlueprintLog: New page: Compile VRPawn
+[2024.10.24-17.34.51:008][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.24-17.34.56:225][130]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.10.24-17.34.56:229][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.24-17.34.56:229][130]PIE: New page: PIE session: VR_Map (Oct 24, 2024, 5:34:56 AM)
+[2024.10.24-17.34.56:230][130]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2024.10.24-17.34.56:231][130]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.10.24-17.34.56:249][131]LogPlayLevel: Creating play world package: /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.34.56:264][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013637s)
+[2024.10.24-17.34.56:264][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR/Maps/VR_Map.VR_Map to /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map (0.013671s)
+[2024.10.24-17.34.56:275][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.24-17.34.56:278][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.34.56:278][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.34.56:279][131]LogAIModule: Creating AISystem for world VR_Map
+[2024.10.24-17.34.56:279][131]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2024.10.24-17.34.56:279][131]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.24-17.34.56:279][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.24-17.34.56:279][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.24-17.34.56:279][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.24-17.34.56:279][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.24-17.34.56:279][131]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.24-17.34.56:279][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.24-17.34.56:279][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.24-17.34.56:279][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.24-17.34.56:279][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.24-17.34.56:279][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.24-17.34.56:279][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.24-17.34.56:281][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.24-17.34.56:298][131]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.10.24-17.34.56:298][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.24-17.34.56:298][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.24-17.34.56:298][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.24-17.34.56:299][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.24-17.34.56:299][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.24-17.34.56:300][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.24-17.34.56:300][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.24-17.34.56:300][131]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.24-17.34.56:300][131]LogAudio: Display: Audio Device (ID: 4) registered with world 'VR_Map'.
+[2024.10.24-17.34.56:300][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.24-17.34.56:309][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.34.56:377][131]LogLoad: Game class is 'VRGameMode_C'
+[2024.10.24-17.34.56:382][131]LogWorld: Bringing World /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map up for play (max tick rate 0) at 2024.10.24-11.34.56
+[2024.10.24-17.34.56:383][131]LogWorld: Bringing up level for play took: 0.005389
+[2024.10.24-17.34.56:385][131]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.10.24-17.34.56:387][131]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.34.56:388][131]vr.PixelDensity = "1"
+[2024.10.24-17.34.56:395][131]PIE: Server logged in
+[2024.10.24-17.34.56:398][131]PIE: Play in editor total start time 0.169 seconds.
+[2024.10.24-17.34.56:412][131]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2024.10.24-17.34.56:421][131]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.10.24-17.34.56:466][133]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2024.10.24-17.35.21:776][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.35.21:776][161]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.35.21:819][161]LogSlate: Window 'VR_Climb Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.101.0)' being destroyed
+[2024.10.24-17.35.21:821][161]LogWorld: UWorld::CleanupWorld for VR_Map, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.35.21:822][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.35.21:825][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.24-17.35.21:827][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.35.21:835][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.24-17.35.21:835][161]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.24-17.35.21:835][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.24-17.35.21:836][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.24-17.35.21:844][161]LogSlate: Slate User Unregistered.  User Index 8
+[2024.10.24-17.35.21:844][161]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.35.21:845][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.24-17.35.21:932][162]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.10.24-17.35.27:092][597]LogHttp: Warning: 00000B3B1ADE5F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.35.27:092][597]LogHttp: Warning: 00000B3B1ADE5F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.35.27:092][597]LogHttp: Warning: 00000B3B1ADE5F00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.35.27:092][597]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.35.28:816][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.35.28:844][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/VRPawn" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/VRPawn.uasset" SILENT=true
+[2024.10.24-17.35.28:910][743]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/VRPawn
+[2024.10.24-17.35.28:911][743]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VRPawn9A2AD67448404C12793D36990AB924DA.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/VRPawn.uasset'
+[2024.10.24-17.35.28:917][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 8.43 sec)
+[2024.10.24-17.35.28:918][743]AssetCheck: New page: Asset Save: VRPawn
+[2024.10.24-17.35.28:918][743]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VR/Blueprints/VRPawn.VRPawn
+[2024.10.24-17.35.30:824][901]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.10.24-17.35.30:828][901]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.24-17.35.30:829][901]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2024.10.24-17.35.30:908][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.24-17.35.30:910][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2024.10.24-17.35.30:910][901]PIE: New page: PIE session: VR_Map (Oct 24, 2024, 5:35:30 AM)
+[2024.10.24-17.35.30:910][901]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2024.10.24-17.35.30:912][901]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.10.24-17.35.30:988][902]LogPlayLevel: Creating play world package: /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.35.31:000][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012759s)
+[2024.10.24-17.35.31:000][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR/Maps/VR_Map.VR_Map to /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map (0.012799s)
+[2024.10.24-17.35.31:007][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.10.24-17.35.31:010][902]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.35.31:010][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.35.31:010][902]LogAIModule: Creating AISystem for world VR_Map
+[2024.10.24-17.35.31:011][902]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2024.10.24-17.35.31:011][902]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.24-17.35.31:011][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.24-17.35.31:011][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.24-17.35.31:011][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.24-17.35.31:011][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.24-17.35.31:011][902]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.24-17.35.31:011][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.24-17.35.31:011][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.24-17.35.31:011][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.24-17.35.31:011][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.24-17.35.31:011][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.24-17.35.31:011][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.24-17.35.31:013][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.24-17.35.31:029][902]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.10.24-17.35.31:029][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.24-17.35.31:029][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.24-17.35.31:029][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.24-17.35.31:030][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.24-17.35.31:030][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.24-17.35.31:031][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.24-17.35.31:031][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.24-17.35.31:031][902]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.24-17.35.31:031][902]LogAudio: Display: Audio Device (ID: 5) registered with world 'VR_Map'.
+[2024.10.24-17.35.31:031][902]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.24-17.35.31:040][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.35.31:104][902]LogLoad: Game class is 'VRGameMode_C'
+[2024.10.24-17.35.31:110][902]LogWorld: Bringing World /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map up for play (max tick rate 0) at 2024.10.24-11.35.31
+[2024.10.24-17.35.31:111][902]LogWorld: Bringing up level for play took: 0.005368
+[2024.10.24-17.35.31:113][902]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.10.24-17.35.31:114][902]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.35.31:115][902]vr.PixelDensity = "1"
+[2024.10.24-17.35.31:119][902]PIE: Server logged in
+[2024.10.24-17.35.31:121][902]PIE: Play in editor total start time 0.293 seconds.
+[2024.10.24-17.35.31:156][902]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2024.10.24-17.35.31:158][902]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.10.24-17.35.48:096][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.35.48:096][521]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.35.48:140][521]LogSlate: Window 'VR_Climb Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.101.0)' being destroyed
+[2024.10.24-17.35.48:142][521]LogWorld: UWorld::CleanupWorld for VR_Map, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.35.48:143][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.35.48:145][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.24-17.35.48:147][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.35.48:155][521]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.24-17.35.48:155][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.24-17.35.48:156][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.24-17.35.48:163][521]LogSlate: Slate User Unregistered.  User Index 8
+[2024.10.24-17.35.48:163][521]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.35.48:164][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.10.24-17.35.48:252][522]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.10.24-17.36.04:173][885]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.10.24-17.36.04:179][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.24-17.36.04:179][885]PIE: New page: PIE session: VR_Map (Oct 24, 2024, 5:36:04 AM)
+[2024.10.24-17.36.04:179][885]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2024.10.24-17.36.04:181][885]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.10.24-17.36.04:199][886]LogPlayLevel: Creating play world package: /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.36.04:213][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012930s)
+[2024.10.24-17.36.04:213][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR/Maps/VR_Map.VR_Map to /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map (0.012969s)
+[2024.10.24-17.36.04:218][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.10.24-17.36.04:221][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.36.04:221][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.36.04:221][886]LogAIModule: Creating AISystem for world VR_Map
+[2024.10.24-17.36.04:221][886]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2024.10.24-17.36.04:221][886]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.24-17.36.04:221][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.24-17.36.04:221][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.24-17.36.04:221][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.24-17.36.04:221][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.24-17.36.04:221][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.24-17.36.04:221][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.24-17.36.04:221][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.24-17.36.04:221][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.24-17.36.04:222][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.24-17.36.04:222][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.24-17.36.04:222][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.24-17.36.04:224][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.24-17.36.04:239][886]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.10.24-17.36.04:240][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.24-17.36.04:240][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.24-17.36.04:240][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.24-17.36.04:240][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.24-17.36.04:240][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.10.24-17.36.04:242][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.24-17.36.04:242][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.24-17.36.04:242][886]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.24-17.36.04:242][886]LogAudio: Display: Audio Device (ID: 6) registered with world 'VR_Map'.
+[2024.10.24-17.36.04:242][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.24-17.36.04:252][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.36.04:317][886]LogLoad: Game class is 'VRGameMode_C'
+[2024.10.24-17.36.04:323][886]LogWorld: Bringing World /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map up for play (max tick rate 0) at 2024.10.24-11.36.04
+[2024.10.24-17.36.04:324][886]LogWorld: Bringing up level for play took: 0.005886
+[2024.10.24-17.36.04:325][886]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.10.24-17.36.04:328][886]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.36.04:329][886]vr.PixelDensity = "1"
+[2024.10.24-17.36.04:335][886]PIE: Server logged in
+[2024.10.24-17.36.04:340][886]PIE: Play in editor total start time 0.161 seconds.
+[2024.10.24-17.36.04:357][886]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2024.10.24-17.36.04:366][886]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.10.24-17.36.24:765][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.36.24:766][390]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.36.24:813][390]LogSlate: Window 'VR_Climb Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.101.0)' being destroyed
+[2024.10.24-17.36.24:816][390]LogWorld: UWorld::CleanupWorld for VR_Map, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.36.24:817][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.36.24:819][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.24-17.36.24:821][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.36.24:828][390]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.24-17.36.24:829][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.24-17.36.24:830][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.24-17.36.24:836][390]LogSlate: Slate User Unregistered.  User Index 8
+[2024.10.24-17.36.24:836][390]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.36.24:837][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.10.24-17.36.24:926][391]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.10.24-17.36.27:114][568]LogHttp: Warning: 00000B3B0E407D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.36.27:114][568]LogHttp: Warning: 00000B3B0E407D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.36.27:114][568]LogHttp: Warning: 00000B3B0E407D00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.36.27:114][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Total job queries 1,057, among them cache hits 500 (47.30%)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Tracking 556 distinct input hashes that result in 293 distinct outputs (52.70%)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: RAM used: 20.20 MiB of 3.20 GiB budget. Usage: 0.62%
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Shaders Compiled: 485
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Jobs assigned 486, completed 485 (99.79%)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Average time worker was idle: 54.28 s
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Time job spent in pending queue: average 0.88 s, longest 5.70 s
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 3.61 s
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Job life time (pending + execution): average 1.86 s, max 6.51
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Shader code size: average 66.804 KiB, min 2.816 KiB, max 99.746 KiB
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 61.62 s
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Jobs were issued in 430 batches (only local compilation was used), average 1.13 jobs/batch
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Average processing rate: 7.87 jobs/sec
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Total thread time: 256.71 s
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Total thread preprocess time: 10.769 s
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Percentage time preprocessing: 4.20%
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Effective parallelization: 4.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    8 times, average 1.35 sec, max 1.44 sec, min 1.20 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    8 times, average 1.33 sec, max 1.44 sec, min 1.14 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    8 times, average 1.32 sec, max 1.38 sec, min 1.22 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    9 times, average 1.26 sec, max 1.40 sec, min 0.45 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 1.22 sec, max 1.42 sec, min 0.45 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 15.65% of total time (compiled   34 times, average 1.18 sec, max 1.45 sec, min 1.04 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.61% of total time (compiled   47 times, average 0.42 sec, max 1.39 sec, min 0.14 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.42% of total time (compiled   18 times, average 1.06 sec, max 1.37 sec, min 0.42 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 6.14% of total time (compiled   34 times, average 0.46 sec, max 0.70 sec, min 0.26 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.05% of total time (compiled   11 times, average 1.18 sec, max 1.39 sec, min 0.41 sec)
+[2024.10.24-17.36.59:095][363]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.37.27:096][768]LogHttp: Warning: 00000B3B15D81900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.37.27:096][768]LogHttp: Warning: 00000B3B15D81900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.37.27:096][768]LogHttp: Warning: 00000B3B15D81900: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.37.27:096][768]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.37.31:219][232]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.10.24-17.37.31:253][232]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.10.24-17.37.31:260][233]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.10.24-17.37.37:262][952]LogContentBrowser: Attempting asset rename: NewMaterial -> M_handmat
+[2024.10.24-17.37.37:263][952]LogContentBrowser: End creating deferred item NewMaterial
+[2024.10.24-17.37.38:585][109]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VR/Materials/M_handmat.M_handmat
+[2024.10.24-17.37.38:588][109]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.37.38:588][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.37.38:674][109]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.37.38:674][109]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.38:674][109]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.37.38:680][109]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.10.24-17.37.38:719][111]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.37.38:719][111]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.37.38:719][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.38:719][111]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.37.41:888][482]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.37.41:888][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.41:888][482]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.37.41:921][484]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.37.41:921][484]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.37.41:921][484]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.41:921][484]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.37.42:754][578]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.37.42:754][578]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.42:754][578]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.37.42:787][580]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.37.42:787][580]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.37.42:787][580]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.42:787][580]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.37.45:178][854]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.37.45:178][854]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.45:178][854]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.37.45:617][903]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.37.45:617][903]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.37.45:617][903]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.45:617][903]MaterialEditorStats: Shader Count: 1
+[2024.10.24-17.37.47:168][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.37.47:168][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.47:168][ 71]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.37.47:510][108]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.37.47:510][108]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.37.47:510][108]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.47:510][108]MaterialEditorStats: Shader Count: 1
+[2024.10.24-17.37.48:317][200]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.37.48:317][200]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.37.48:317][200]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.48:317][200]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.37.54:194][896]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.37.54:194][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.54:194][896]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.37.54:509][933]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.37.54:509][933]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.37.54:509][933]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.37.54:509][933]MaterialEditorStats: Shader Count: 1
+[2024.10.24-17.38.06:191][307]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.38.06:197][307]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.38.06:197][307]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.38.06:197][307]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.38.06:499][341]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.38.06:499][341]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.38.06:499][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.38.06:499][341]MaterialEditorStats: Shader Count: 1
+[2024.10.24-17.38.09:109][644]LogMaterialEditor: Saving and Compiling material M_handmat
+[2024.10.24-17.38.09:159][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.24-17.38.09:599][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.24-17.38.09:609][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.38.11:071][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/M_handmat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_handmat.uasset" SILENT=true
+[2024.10.24-17.38.11:072][644]LogSavePackage: Moving output files for package: /Game/VR/Materials/M_handmat
+[2024.10.24-17.38.11:072][644]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/M_handmatE953740D45AD7074452D73BDB55F49C1.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_handmat.uasset'
+[2024.10.24-17.38.11:077][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.46 sec (total: 9.90 sec)
+[2024.10.24-17.38.11:078][644]AssetCheck: New page: Asset Save: M_handmat
+[2024.10.24-17.38.11:078][644]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/M_handmat.M_handmat
+[2024.10.24-17.38.11:079][644]MaterialEditorStats: Base pass shader: 488 instructions
+[2024.10.24-17.38.11:079][644]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.38.11:079][644]MaterialEditorStats: MaxSampler: 543 instructions
+[2024.10.24-17.38.11:079][644]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.38.11:079][644]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.38.11:079][644]MaterialEditorStats: Shader Count: 14
+[2024.10.24-17.38.19:930][533]LogMaterial: Display: Material /Game/VR/Materials/M_handmat.M_handmat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.24-17.38.19:930][533]LogMaterial: Display: Material /Engine/Transient.M_handmat needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.24-17.38.19:966][533]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.38.19:966][533]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.38.19:966][533]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.38.20:036][534]MaterialEditorStats: Base pass shader: 488 instructions
+[2024.10.24-17.38.20:036][534]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.38.20:036][534]MaterialEditorStats: MaxSampler: 543 instructions
+[2024.10.24-17.38.20:036][534]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.38.20:036][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.38.20:036][534]MaterialEditorStats: Shader Count: 14
+[2024.10.24-17.38.21:716][620]MaterialEditorStats: Base pass shader: 488 instructions
+[2024.10.24-17.38.21:717][620]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.38.21:717][620]MaterialEditorStats: MaxSampler: 543 instructions
+[2024.10.24-17.38.21:717][620]MaterialEditorStats: Base pass vertex shader: 405 instructions
+[2024.10.24-17.38.21:717][620]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.38.21:717][620]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.38.21:717][620]MaterialEditorStats: Shader Count: 26
+[2024.10.24-17.38.27:104][ 82]LogHttp: Warning: 00000B3B25E63700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.38.27:105][ 82]LogHttp: Warning: 00000B3B25E63700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.38.27:105][ 82]LogHttp: Warning: 00000B3B25E63700: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.38.27:105][ 82]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.38.27:602][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.38.27:637][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/VRPawn" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/VRPawn.uasset" SILENT=true
+[2024.10.24-17.38.27:705][124]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/VRPawn
+[2024.10.24-17.38.27:705][124]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VRPawn9F7F075540DF916E827DD59269C71107.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/VRPawn.uasset'
+[2024.10.24-17.38.27:711][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 10.0 sec)
+[2024.10.24-17.38.27:714][124]AssetCheck: New page: Asset Save: VRPawn
+[2024.10.24-17.38.27:714][124]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VR/Blueprints/VRPawn.VRPawn
+[2024.10.24-17.38.28:666][201]BlueprintLog: New page: Compile VRPawn
+[2024.10.24-17.38.28:723][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.10.24-17.38.29:758][276]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.10.24-17.38.29:763][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.24-17.38.29:764][276]PIE: New page: PIE session: VR_Map (Oct 24, 2024, 5:38:29 AM)
+[2024.10.24-17.38.29:764][276]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2024.10.24-17.38.29:765][276]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.10.24-17.38.29:784][277]LogPlayLevel: Creating play world package: /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.38.29:796][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012562s)
+[2024.10.24-17.38.29:796][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR/Maps/VR_Map.VR_Map to /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map (0.012597s)
+[2024.10.24-17.38.29:803][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.24-17.38.29:805][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.38.29:805][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.38.29:806][277]LogAIModule: Creating AISystem for world VR_Map
+[2024.10.24-17.38.29:806][277]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2024.10.24-17.38.29:806][277]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.24-17.38.29:806][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.24-17.38.29:806][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.24-17.38.29:806][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.24-17.38.29:806][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.24-17.38.29:806][277]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.24-17.38.29:806][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.24-17.38.29:806][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.24-17.38.29:806][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.24-17.38.29:806][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.24-17.38.29:806][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.24-17.38.29:806][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.24-17.38.29:808][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.24-17.38.29:825][277]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.10.24-17.38.29:825][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.24-17.38.29:825][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.24-17.38.29:825][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.24-17.38.29:825][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.10.24-17.38.29:825][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.10.24-17.38.29:827][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.10.24-17.38.29:827][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.10.24-17.38.29:827][277]LogInit: FAudioDevice initialized with ID 7.
+[2024.10.24-17.38.29:827][277]LogAudio: Display: Audio Device (ID: 7) registered with world 'VR_Map'.
+[2024.10.24-17.38.29:827][277]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.24-17.38.29:835][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.38.29:906][277]LogLoad: Game class is 'VRGameMode_C'
+[2024.10.24-17.38.29:910][277]LogWorld: Bringing World /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map up for play (max tick rate 0) at 2024.10.24-11.38.29
+[2024.10.24-17.38.29:910][277]LogWorld: Bringing up level for play took: 0.004015
+[2024.10.24-17.38.29:912][277]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.10.24-17.38.29:915][277]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.38.29:915][277]vr.PixelDensity = "1"
+[2024.10.24-17.38.29:923][277]PIE: Server logged in
+[2024.10.24-17.38.29:925][277]PIE: Play in editor total start time 0.162 seconds.
+[2024.10.24-17.38.29:939][277]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2024.10.24-17.38.29:949][277]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.10.24-17.39.27:131][525]LogHttp: Warning: 00000B3B1AB6E100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.39.27:131][525]LogHttp: Warning: 00000B3B1AB6E100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.39.27:131][525]LogHttp: Warning: 00000B3B1AB6E100: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.39.27:131][525]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.39.54:525][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.39.54:525][536]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.39.54:573][536]LogSlate: Window 'VR_Climb Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.101.0)' being destroyed
+[2024.10.24-17.39.54:576][536]LogWorld: UWorld::CleanupWorld for VR_Map, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.39.54:577][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.39.54:579][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.24-17.39.54:583][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.39.54:592][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.24-17.39.54:593][536]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.24-17.39.54:593][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.24-17.39.54:594][536]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.24-17.39.54:600][536]LogSlate: Slate User Unregistered.  User Index 8
+[2024.10.24-17.39.54:600][536]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.39.54:601][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.24-17.39.54:694][537]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.10.24-17.40.11:005][115]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.24-17.40.11:899][206]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.10.24-17.40.12:672][282]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.10.24-17.40.12:678][282]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.10.24-17.40.12:687][283]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.10.24-17.40.15:215][586]LogContentBrowser: Attempting asset rename: NewMaterial -> M_gray
+[2024.10.24-17.40.15:216][586]LogContentBrowser: End creating deferred item NewMaterial
+[2024.10.24-17.40.16:391][725]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VR/Materials/M_gray.M_gray
+[2024.10.24-17.40.16:394][725]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.40.16:394][725]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.40.16:475][725]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.40.16:475][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.16:475][725]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.40.16:483][725]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Total job queries 1,185, among them cache hits 544 (45.91%)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Tracking 629 distinct input hashes that result in 329 distinct outputs (52.31%)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: RAM used: 23.08 MiB of 3.20 GiB budget. Usage: 0.70%
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Shaders Compiled: 556
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Jobs assigned 556, completed 556 (100%)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Average time worker was idle: 51.26 s
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Time job spent in pending queue: average 0.78 s, longest 5.70 s
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 3.61 s
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Job life time (pending + execution): average 1.72 s, max 6.51
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Shader code size: average 67.586 KiB, min 2.816 KiB, max 99.746 KiB
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.36 s
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Jobs were issued in 495 batches (only local compilation was used), average 1.12 jobs/batch
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Average processing rate: 7.28 jobs/sec
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Total thread time: 290.444 s
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Total thread preprocess time: 12.142 s
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Percentage time preprocessing: 4.18%
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Effective parallelization: 3.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    8 times, average 1.35 sec, max 1.44 sec, min 1.20 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    8 times, average 1.33 sec, max 1.44 sec, min 1.14 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    8 times, average 1.32 sec, max 1.38 sec, min 1.22 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   11 times, average 1.26 sec, max 1.40 sec, min 0.45 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 1.22 sec, max 1.46 sec, min 1.03 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 13.83% of total time (compiled   34 times, average 1.18 sec, max 1.45 sec, min 1.04 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.39% of total time (compiled   26 times, average 1.05 sec, max 1.37 sec, min 0.42 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.30% of total time (compiled   63 times, average 0.38 sec, max 1.39 sec, min 0.14 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 5.43% of total time (compiled   34 times, average 0.46 sec, max 0.70 sec, min 0.26 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.31% of total time (compiled   13 times, average 1.19 sec, max 1.39 sec, min 0.41 sec)
+[2024.10.24-17.40.16:497][726]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.40.16:521][727]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.16:521][727]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.40.16:521][727]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.16:521][727]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.40.18:381][925]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.40.18:381][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.18:381][925]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.40.18:410][927]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.18:410][927]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.40.18:410][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.18:410][927]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.40.19:048][995]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.40.19:048][995]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.19:048][995]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.40.19:080][997]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.19:080][997]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.40.19:080][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.19:080][997]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.40.20:828][185]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.40.20:828][185]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.20:829][185]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.40.20:877][187]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.20:877][187]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.40.20:877][187]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.20:877][187]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.40.22:316][343]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.40.22:316][343]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.22:316][343]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.40.22:366][345]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.22:366][345]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.40.22:366][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.22:366][345]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.40.27:091][864]LogHttp: Warning: 00000B3B1AAAE600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.40.27:091][864]LogHttp: Warning: 00000B3B1AAAE600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.40.27:092][864]LogHttp: Warning: 00000B3B1AAAE600: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.40.27:092][864]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.40.30:532][239]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.40.30:540][239]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.40.30:540][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.30:540][239]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.40.30:917][278]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.30:917][278]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.40.30:917][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.30:917][278]MaterialEditorStats: Shader Count: 1
+[2024.10.24-17.40.31:728][366]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.31:728][366]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.24-17.40.31:728][366]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.31:728][366]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.40.36:873][928]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.40.36:873][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.36:873][928]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.40.37:020][942]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.37:020][942]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.40.37:020][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.37:020][942]MaterialEditorStats: Shader Count: 1
+[2024.10.24-17.40.38:250][ 62]LogMaterialEditor: Saving and Compiling material M_gray
+[2024.10.24-17.40.38:300][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.10.24-17.40.38:644][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.10.24-17.40.38:652][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.40.40:150][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/M_gray" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_gray.uasset" SILENT=true
+[2024.10.24-17.40.40:151][ 62]LogSavePackage: Moving output files for package: /Game/VR/Materials/M_gray
+[2024.10.24-17.40.40:151][ 62]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/M_grayF4B540D7427516A3CE0147A9E30FD4BF.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_gray.uasset'
+[2024.10.24-17.40.40:158][ 62]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.50 sec (total: 11.5 sec)
+[2024.10.24-17.40.40:159][ 62]AssetCheck: New page: Asset Save: M_gray
+[2024.10.24-17.40.40:159][ 62]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/M_gray.M_gray
+[2024.10.24-17.40.40:160][ 62]MaterialEditorStats: Base pass shader: 487 instructions
+[2024.10.24-17.40.40:160][ 62]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.40:160][ 62]MaterialEditorStats: MaxSampler: 543 instructions
+[2024.10.24-17.40.40:160][ 62]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.40.40:160][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.40:160][ 62]MaterialEditorStats: Shader Count: 14
+[2024.10.24-17.40.43:195][399]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.24-17.40.43:858][477]LogMaterial: Display: Material /Game/VR/Materials/M_gray.M_gray needed to have new flag set bUsedWithStaticLighting !
+[2024.10.24-17.40.43:859][477]LogMaterial: Display: Material /Engine/Transient.M_gray needed to have new flag set bUsedWithStaticLighting !
+[2024.10.24-17.40.43:881][477]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.40.43:881][477]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.43:881][477]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.40.43:914][478]MaterialEditorStats: Base pass shader: 487 instructions
+[2024.10.24-17.40.43:914][478]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.43:914][478]MaterialEditorStats: MaxSampler: 543 instructions
+[2024.10.24-17.40.43:914][478]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.40.43:914][478]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.43:914][478]MaterialEditorStats: Shader Count: 14
+[2024.10.24-17.40.45:251][625]MaterialEditorStats: Base pass shader: 487 instructions
+[2024.10.24-17.40.45:251][625]MaterialEditorStats: Base pass shader with Surface Lightmap: 528 instructions
+[2024.10.24-17.40.45:251][625]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.40.45:251][625]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.40.45:251][625]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.40.45:251][625]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.41.17:928][380]LogContentBrowser: Deferred new asset file creation: M_gray1
+[2024.10.24-17.41.17:939][380]LogContentBrowser: Creating deferred item: M_gray1
+[2024.10.24-17.41.17:947][381]LogContentBrowser: Renaming the item being created (Deferred Item: M_gray1).
+[2024.10.24-17.41.20:113][639]LogContentBrowser: Attempting asset rename: M_gray1 -> M_graydark
+[2024.10.24-17.41.20:115][639]LogContentBrowser: End creating deferred item M_gray1
+[2024.10.24-17.41.21:293][774]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VR/Materials/M_graydark.M_graydark
+[2024.10.24-17.41.21:295][774]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.41.21:295][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.41.21:384][774]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.41.21:384][774]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.41.21:384][774]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.41.21:391][774]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.10.24-17.41.21:430][776]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.41.21:430][776]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.41.21:430][776]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.41.21:430][776]MaterialEditorStats: Shader Count: 2
+[2024.10.24-17.41.25:783][233]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.24-17.41.25:791][233]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.24-17.41.25:791][233]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.41.25:791][233]MaterialEditorStats: Shader Count: 0
+[2024.10.24-17.41.26:132][267]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.41.26:132][267]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.24-17.41.26:132][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.41.26:132][267]MaterialEditorStats: Shader Count: 1
+[2024.10.24-17.41.27:123][364]LogHttp: Warning: 00000B3B30794100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.41.27:123][364]LogHttp: Warning: 00000B3B30794100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.41.27:123][364]LogHttp: Warning: 00000B3B30794100: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.41.27:123][364]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.41.33:348][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.10.24-17.41.33:351][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.41.33:380][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Maps/VR_Map" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.24-17.41.33:398][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.24-17.41.33:507][ 69]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map
+[2024.10.24-17.41.33:508][ 69]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VR_Map67306B7449AC13E7151E83BAA42D46A9.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap'
+[2024.10.24-17.41.33:513][ 69]LogFileHelpers: All files are already saved.
+[2024.10.24-17.41.33:513][ 69]LogFileHelpers: Saving map 'VR_Map' took 0.133
+[2024.10.24-17.41.33:513][ 69]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map_sharedassets/Slate_LayerInfo
+[2024.10.24-17.41.33:513][ 69]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Slate_LayerInfo409839A44C3CCC86364D6EA8C763590A.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map_sharedassets/Slate_LayerInfo.uasset'
+[2024.10.24-17.41.33:515][ 69]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map_sharedassets/Snow_LayerInfo
+[2024.10.24-17.41.33:515][ 69]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Snow_LayerInfo5195C8F94718ADFBBA38339AEFBC4B72.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map_sharedassets/Snow_LayerInfo.uasset'
+[2024.10.24-17.41.33:515][ 69]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map_sharedassets/Grass_LayerInfo
+[2024.10.24-17.41.33:515][ 69]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/Grass_LayerInfo512184974FB806092071B29B19FEDD75.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map_sharedassets/Grass_LayerInfo.uasset'
+[2024.10.24-17.41.33:516][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/M_handmat" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_handmat.uasset" SILENT=true
+[2024.10.24-17.41.33:517][ 69]LogSavePackage: Moving output files for package: /Game/VR/Materials/M_handmat
+[2024.10.24-17.41.33:517][ 69]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/M_handmat4110AB3A413EDAC0E77B25923AF11181.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_handmat.uasset'
+[2024.10.24-17.41.33:519][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/M_gray" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_gray.uasset" SILENT=true
+[2024.10.24-17.41.33:519][ 69]LogSavePackage: Moving output files for package: /Game/VR/Materials/M_gray
+[2024.10.24-17.41.33:520][ 69]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/M_grayD9008EF64229D956532F44BCD7C5433A.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_gray.uasset'
+[2024.10.24-17.41.33:557][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/M_graydark" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_graydark.uasset" SILENT=true
+[2024.10.24-17.41.33:559][ 69]LogSavePackage: Moving output files for package: /Game/VR/Materials/M_graydark
+[2024.10.24-17.41.33:559][ 69]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/M_graydark74AA2489492088BB1621E48DB20A181E.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_graydark.uasset'
+[2024.10.24-17.41.33:566][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 11.7 sec)
+[2024.10.24-17.41.33:569][ 69]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.24-17.41.33:569][ 69]LogContentValidation: Display: Validating /Script/Engine.World /Game/VR/Maps/VR_Map.VR_Map
+[2024.10.24-17.41.33:569][ 69]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/VR/Maps/VR_Map_sharedassets/Slate_LayerInfo.Slate_LayerInfo
+[2024.10.24-17.41.33:569][ 69]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/VR/Maps/VR_Map_sharedassets/Snow_LayerInfo.Snow_LayerInfo
+[2024.10.24-17.41.33:569][ 69]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/VR/Maps/VR_Map_sharedassets/Grass_LayerInfo.Grass_LayerInfo
+[2024.10.24-17.41.33:569][ 69]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/M_handmat.M_handmat
+[2024.10.24-17.41.33:569][ 69]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/M_gray.M_gray
+[2024.10.24-17.41.33:569][ 69]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/M_graydark.M_graydark
+[2024.10.24-17.41.46:848][557]LogMaterialEditor: Saving and Compiling material M_graydark
+[2024.10.24-17.41.46:880][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.24-17.41.47:235][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.10.24-17.41.47:245][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.41.49:270][557]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.10.24-17.41.49:900][557]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 2.631680s (0.631680s overbudget)
+[2024.10.24-17.41.49:929][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Materials/M_graydark" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_graydark.uasset" SILENT=true
+[2024.10.24-17.41.49:930][557]LogSavePackage: Moving output files for package: /Game/VR/Materials/M_graydark
+[2024.10.24-17.41.49:931][557]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/M_graydarkA56226714EFF8EECE152F8A90E63D2A4.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Materials/M_graydark.uasset'
+[2024.10.24-17.41.49:934][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.68 sec (total: 14.4 sec)
+[2024.10.24-17.41.49:935][557]AssetCheck: New page: Asset Save: M_graydark
+[2024.10.24-17.41.49:935][557]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VR/Materials/M_graydark.M_graydark
+[2024.10.24-17.41.49:936][557]MaterialEditorStats: Base pass shader: 487 instructions
+[2024.10.24-17.41.49:936][557]MaterialEditorStats: Base pass shader with Surface Lightmap: 528 instructions
+[2024.10.24-17.41.49:936][557]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2024.10.24-17.41.49:936][557]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.24-17.41.49:936][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.10.24-17.41.49:936][557]MaterialEditorStats: Shader Count: 23
+[2024.10.24-17.41.49:949][557]LogAutomationController: Ignoring very large delta of 3.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.24-17.42.27:112][777]LogHttp: Warning: 00000B3B3164D200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.42.27:113][777]LogHttp: Warning: 00000B3B3164D200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.42.27:113][777]LogHttp: Warning: 00000B3B3164D200: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.42.27:113][777]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.42.38:224][ 87]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable
+[2024.10.24-17.42.38:224][ 87]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.42.38:224][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.42.39:885][219]LogViewport: Scene viewport resized to 1525x1227, mode Windowed.
+[2024.10.24-17.42.47:183][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.42.47:214][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Blueprints/BP_climbable" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/BP_climbable.uasset" SILENT=true
+[2024.10.24-17.42.47:217][808]LogSavePackage: Moving output files for package: /Game/VR/Blueprints/BP_climbable
+[2024.10.24-17.42.47:217][808]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/BP_climbableB8738CED498A31AD1607668045E0A5F7.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Blueprints/BP_climbable.uasset'
+[2024.10.24-17.42.47:222][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 14.4 sec)
+[2024.10.24-17.42.47:223][808]AssetCheck: New page: Asset Save: BP_climbable
+[2024.10.24-17.42.47:223][808]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable
+[2024.10.24-17.43.27:107][373]LogHttp: Warning: 00000B3B168BB900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.43.27:107][373]LogHttp: Warning: 00000B3B168BB900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.43.27:107][373]LogHttp: Warning: 00000B3B168BB900: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.43.27:107][373]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Total job queries 1,334, among them cache hits 621 (46.55%)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Tracking 694 distinct input hashes that result in 370 distinct outputs (53.31%)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: RAM used: 25.54 MiB of 3.20 GiB budget. Usage: 0.78%
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Shaders Compiled: 621
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Jobs assigned 622, completed 621 (99.84%)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Average time worker was idle: 50.00 s
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Time job spent in pending queue: average 0.72 s, longest 5.70 s
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 3.61 s
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Job life time (pending + execution): average 1.64 s, max 6.51
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Shader code size: average 67.475 KiB, min 2.816 KiB, max 99.746 KiB
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.94 s
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Jobs were issued in 561 batches (only local compilation was used), average 1.11 jobs/batch
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Average processing rate: 7.06 jobs/sec
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Total thread time: 333.189 s
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Total thread preprocess time: 13.564 s
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Percentage time preprocessing: 4.07%
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Effective parallelization: 3.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   10 times, average 1.34 sec, max 1.44 sec, min 1.20 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   10 times, average 1.33 sec, max 1.44 sec, min 1.14 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   10 times, average 1.31 sec, max 1.38 sec, min 1.22 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   13 times, average 1.26 sec, max 1.40 sec, min 0.45 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   12 times, average 1.22 sec, max 1.35 sec, min 1.10 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 12.78% of total time (compiled   36 times, average 1.18 sec, max 1.45 sec, min 1.04 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.38% of total time (compiled   30 times, average 1.04 sec, max 1.37 sec, min 0.42 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.16% of total time (compiled   68 times, average 0.40 sec, max 1.39 sec, min 0.14 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.40% of total time (compiled   15 times, average 1.20 sec, max 1.39 sec, min 0.41 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.92% of total time (compiled   13 times, average 1.26 sec, max 1.40 sec, min 0.45 sec)
+[2024.10.24-17.43.30:394][740]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.43.33:117][ 44]LogMaterial: Display: Material /Engine/VREditor/BasicMeshes/M_Floor_01.M_Floor_01 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.24-17.44.10:713][204]LogMaterial: Display: Material /Engine/VREditor/UI/FrameMaterial.FrameMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2024.10.24-17.44.21:647][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.44.21:669][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Maps/VR_Map" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.24-17.44.21:688][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.24-17.44.21:799][438]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map
+[2024.10.24-17.44.21:799][438]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VR_MapF871869E48BC4D641C8232BDF6275059.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap'
+[2024.10.24-17.44.21:804][438]LogFileHelpers: All files are already saved.
+[2024.10.24-17.44.21:804][438]LogFileHelpers: Saving map 'VR_Map' took 0.135
+[2024.10.24-17.44.21:811][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 14.6 sec)
+[2024.10.24-17.44.21:812][438]AssetCheck: New page: Asset Save: VR_Map
+[2024.10.24-17.44.21:812][438]LogContentValidation: Display: Validating /Script/Engine.World /Game/VR/Maps/VR_Map.VR_Map
+[2024.10.24-17.44.27:117][ 74]LogHttp: Warning: 00000B3B2597F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.44.27:117][ 74]LogHttp: Warning: 00000B3B2597F000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.44.27:117][ 74]LogHttp: Warning: 00000B3B2597F000: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.44.27:117][ 74]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.44.36:985][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.44.37:009][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Maps/VR_Map" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.24-17.44.37:027][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.10.24-17.44.37:137][193]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map
+[2024.10.24-17.44.37:138][193]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VR_Map441667904DA76C4319DE04B5E7162BE0.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap'
+[2024.10.24-17.44.37:143][193]LogFileHelpers: All files are already saved.
+[2024.10.24-17.44.37:143][193]LogFileHelpers: Saving map 'VR_Map' took 0.134
+[2024.10.24-17.44.37:149][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 14.7 sec)
+[2024.10.24-17.44.37:152][193]AssetCheck: New page: Asset Save: VR_Map
+[2024.10.24-17.44.37:152][193]LogContentValidation: Display: Validating /Script/Engine.World /Game/VR/Maps/VR_Map.VR_Map
+[2024.10.24-17.44.49:564][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.10.24-17.44.49:567][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.44.49:613][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/BasicMeshes/M_Floor_01" FILE="../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" SILENT=true
+[2024.10.24-17.44.49:615][639]LogSavePackage: Moving output files for package: /Engine/VREditor/BasicMeshes/M_Floor_01
+[2024.10.24-17.44.49:616][639]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/M_Floor_015D5DD6A944224C55066DF7BB661541E1.tmp' to '../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset'
+[2024.10.24-17.44.49:620][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/UI/KeyMaterial" FILE="../../../Engine/Content/VREditor/UI/KeyMaterial.uasset" SILENT=true
+[2024.10.24-17.44.49:621][639]LogSavePackage: Moving output files for package: /Engine/VREditor/UI/KeyMaterial
+[2024.10.24-17.44.49:622][639]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/KeyMaterial67392AB94CC56AD00807C4AEDA457F99.tmp' to '../../../Engine/Content/VREditor/UI/KeyMaterial.uasset'
+[2024.10.24-17.44.49:626][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/UI/FrameMaterial" FILE="../../../Engine/Content/VREditor/UI/FrameMaterial.uasset" SILENT=true
+[2024.10.24-17.44.49:627][639]LogSavePackage: Moving output files for package: /Engine/VREditor/UI/FrameMaterial
+[2024.10.24-17.44.49:627][639]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/FrameMaterialF16CC1104C1A58DACA8E90ACEF36746E.tmp' to '../../../Engine/Content/VREditor/UI/FrameMaterial.uasset'
+[2024.10.24-17.44.49:633][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 14.8 sec)
+[2024.10.24-17.44.49:634][639]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.24-17.44.49:634][639]LogContentValidation: Display: Validating /Script/Engine.Material /Engine/VREditor/BasicMeshes/M_Floor_01.M_Floor_01
+[2024.10.24-17.44.49:634][639]LogContentValidation: Display: Validating /Script/Engine.Material /Engine/VREditor/UI/KeyMaterial.KeyMaterial
+[2024.10.24-17.44.49:634][639]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Engine/VREditor/UI/FrameMaterial.FrameMaterial
+[2024.10.24-17.45.27:585][207]LogHttp: Warning: 00000B3B2AAA3200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.45.27:585][207]LogHttp: Warning: 00000B3B2AAA3200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.45.27:585][207]LogHttp: Warning: 00000B3B2AAA3200: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.45.27:585][207]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
