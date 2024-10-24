@@ -4105,3 +4105,447 @@ Script Stack (0 frames) :
 [2024.10.24-17.45.27:585][207]LogHttp: Warning: 00000B3B2AAA3200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2024.10.24-17.45.27:585][207]LogHttp: Warning: 00000B3B2AAA3200: libcurl info message cache 1 (Closing connection)
 [2024.10.24-17.45.27:585][207]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.46.14:995][772]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.10.24-17.46.15:000][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.24-17.46.15:000][772]PIE: New page: PIE session: VR_Map (Oct 24, 2024, 5:46:15 AM)
+[2024.10.24-17.46.15:000][772]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2024.10.24-17.46.15:002][772]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.10.24-17.46.15:014][773]LogPlayLevel: Creating play world package: /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.46.15:026][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012418s)
+[2024.10.24-17.46.15:027][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR/Maps/VR_Map.VR_Map to /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map (0.012455s)
+[2024.10.24-17.46.15:034][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.10.24-17.46.15:036][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.46.15:036][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.46.15:036][773]LogAIModule: Creating AISystem for world VR_Map
+[2024.10.24-17.46.15:036][773]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2024.10.24-17.46.15:036][773]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.10.24-17.46.15:036][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.24-17.46.15:036][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.24-17.46.15:036][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.24-17.46.15:036][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.24-17.46.15:036][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.24-17.46.15:036][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.24-17.46.15:036][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.24-17.46.15:036][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.24-17.46.15:037][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.24-17.46.15:037][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.24-17.46.15:037][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.24-17.46.15:038][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.24-17.46.15:055][773]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.10.24-17.46.15:055][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.24-17.46.15:055][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.24-17.46.15:055][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.24-17.46.15:056][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.10.24-17.46.15:056][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.10.24-17.46.15:057][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.10.24-17.46.15:057][773]LogInit: FAudioDevice initialized with ID 8.
+[2024.10.24-17.46.15:057][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.10.24-17.46.15:057][773]LogAudio: Display: Audio Device (ID: 8) registered with world 'VR_Map'.
+[2024.10.24-17.46.15:057][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.24-17.46.15:066][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.46.15:134][773]LogLoad: Game class is 'VRGameMode_C'
+[2024.10.24-17.46.15:139][773]LogWorld: Bringing World /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map up for play (max tick rate 0) at 2024.10.24-11.46.15
+[2024.10.24-17.46.15:139][773]LogWorld: Bringing up level for play took: 0.004442
+[2024.10.24-17.46.15:141][773]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.10.24-17.46.15:143][773]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.46.15:144][773]vr.PixelDensity = "1"
+[2024.10.24-17.46.15:149][773]PIE: Server logged in
+[2024.10.24-17.46.15:151][773]PIE: Play in editor total start time 0.151 seconds.
+[2024.10.24-17.46.15:158][773]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2024.10.24-17.46.15:174][773]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.10.24-17.46.27:099][191]LogHttp: Warning: 00000B3B1806CD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.46.27:099][191]LogHttp: Warning: 00000B3B1806CD00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.46.27:099][191]LogHttp: Warning: 00000B3B1806CD00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.46.27:099][191]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.47.27:116][502]LogHttp: Warning: 00000B3B27DE5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.47.27:117][502]LogHttp: Warning: 00000B3B27DE5A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.47.27:117][502]LogHttp: Warning: 00000B3B27DE5A00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.47.27:117][502]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.47.32:095][859]LogDerivedDataCache: C:/Users/Tea/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5139 files in 6221 folders with total size 212 MiB.
+[2024.10.24-17.48.06:150][305]Cmd: quit
+[2024.10.24-17.48.06:151][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.48.06:151][305]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.48.06:169][305]LogSlate: Window 'VR_Climb Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.101.0)' being destroyed
+[2024.10.24-17.48.06:206][305]LogWorld: UWorld::CleanupWorld for VR_Map, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.48.06:207][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.48.06:210][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.24-17.48.06:212][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.48.06:220][305]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.24-17.48.06:220][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.24-17.48.06:221][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.24-17.48.06:229][305]LogSlate: Slate User Unregistered.  User Index 8
+[2024.10.24-17.48.06:229][305]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.48.06:230][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.10.24-17.48.06:275][306]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.10.24-17.48.27:096][784]LogHttp: Warning: 00000B3B31A69100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.48.27:096][784]LogHttp: Warning: 00000B3B31A69100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.48.27:096][784]LogHttp: Warning: 00000B3B31A69100: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.48.27:096][784]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.48.29:937][110]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.29:937][110]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.29:938][110]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_2
+[2024.10.24-17.48.29:939][110]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_2
+[2024.10.24-17.48.30:993][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.30:993][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.30:994][216]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_3
+[2024.10.24-17.48.30:995][216]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_3
+[2024.10.24-17.48.38:951][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.38:951][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.38:952][148]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_4
+[2024.10.24-17.48.38:952][148]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_4
+[2024.10.24-17.48.39:935][245]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.39:935][245]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.39:936][245]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_5
+[2024.10.24-17.48.39:937][245]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_5
+[2024.10.24-17.48.41:217][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.41:217][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.41:218][384]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_6
+[2024.10.24-17.48.41:219][384]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_6
+[2024.10.24-17.48.46:957][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.46:957][ 14]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.46:958][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_7
+[2024.10.24-17.48.46:959][ 14]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_7
+[2024.10.24-17.48.48:432][162]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.48:433][162]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.48:434][162]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_8
+[2024.10.24-17.48.48:434][162]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_8
+[2024.10.24-17.48.49:682][302]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.49:682][302]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.49:683][302]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_9
+[2024.10.24-17.48.49:684][302]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_9
+[2024.10.24-17.48.51:310][469]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.51:310][469]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.51:312][469]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_10
+[2024.10.24-17.48.51:312][469]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_10
+[2024.10.24-17.48.55:449][945]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.55:449][945]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.55:450][945]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_11
+[2024.10.24-17.48.55:451][945]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_11
+[2024.10.24-17.48.57:198][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.57:198][128]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.57:200][128]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_12
+[2024.10.24-17.48.57:200][128]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_12
+[2024.10.24-17.48.58:299][251]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.58:299][251]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.48.58:300][251]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_13
+[2024.10.24-17.48.58:300][251]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_13
+[2024.10.24-17.49.00:025][427]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.00:025][427]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.00:026][427]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_14
+[2024.10.24-17.49.00:027][427]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_14
+[2024.10.24-17.49.04:230][899]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.04:230][899]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.04:231][899]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_15
+[2024.10.24-17.49.04:232][899]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_15
+[2024.10.24-17.49.04:804][962]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.04:804][962]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.04:806][962]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_16
+[2024.10.24-17.49.04:806][962]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_16
+[2024.10.24-17.49.05:512][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.05:512][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.05:513][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_17
+[2024.10.24-17.49.05:514][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_17
+[2024.10.24-17.49.06:126][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.06:127][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.06:128][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_18
+[2024.10.24-17.49.06:129][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_18
+[2024.10.24-17.49.06:868][169]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.06:868][169]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.06:869][169]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_19
+[2024.10.24-17.49.06:870][169]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_19
+[2024.10.24-17.49.07:860][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.07:860][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.07:862][260]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_20
+[2024.10.24-17.49.07:862][260]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_20
+[2024.10.24-17.49.08:596][338]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.08:596][338]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.08:597][338]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_21
+[2024.10.24-17.49.08:598][338]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_21
+[2024.10.24-17.49.09:243][395]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.09:243][395]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.09:244][395]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_22
+[2024.10.24-17.49.09:245][395]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_22
+[2024.10.24-17.49.11:223][617]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.11:223][617]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.11:224][617]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_23
+[2024.10.24-17.49.11:225][617]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_23
+[2024.10.24-17.49.13:032][809]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.13:032][809]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.13:033][809]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_24
+[2024.10.24-17.49.13:034][809]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_24
+[2024.10.24-17.49.13:837][895]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.13:837][895]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.13:838][895]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_25
+[2024.10.24-17.49.13:839][895]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_25
+[2024.10.24-17.49.15:454][ 46]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.15:454][ 46]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.15:456][ 46]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_26
+[2024.10.24-17.49.15:457][ 46]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_26
+[2024.10.24-17.49.16:474][155]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.16:474][155]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.16:475][155]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_27
+[2024.10.24-17.49.16:476][155]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_27
+[2024.10.24-17.49.17:030][195]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.17:030][195]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.17:032][195]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_28
+[2024.10.24-17.49.17:032][195]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_28
+[2024.10.24-17.49.19:062][427]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.19:062][427]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.19:064][427]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_29
+[2024.10.24-17.49.19:064][427]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_29
+[2024.10.24-17.49.19:827][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.19:827][499]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.19:828][499]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_30
+[2024.10.24-17.49.19:829][499]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_30
+[2024.10.24-17.49.20:743][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.20:743][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.20:744][598]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_31
+[2024.10.24-17.49.20:745][598]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_31
+[2024.10.24-17.49.23:011][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.23:011][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.23:013][836]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_32
+[2024.10.24-17.49.23:013][836]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_32
+[2024.10.24-17.49.25:980][170]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.25:980][170]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.25:981][170]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_33
+[2024.10.24-17.49.25:982][170]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_33
+[2024.10.24-17.49.27:110][277]LogHttp: Warning: 00000B3B33DB0F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.49.27:110][277]LogHttp: Warning: 00000B3B33DB0F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.49.27:110][277]LogHttp: Warning: 00000B3B33DB0F00: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.49.27:110][277]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.49.28:033][356]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.28:033][356]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.28:034][356]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_34
+[2024.10.24-17.49.28:035][356]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_34
+[2024.10.24-17.49.29:953][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.29:953][573]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.29:954][573]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_35
+[2024.10.24-17.49.29:954][573]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_35
+[2024.10.24-17.49.30:561][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.30:561][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.30:563][626]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_36
+[2024.10.24-17.49.30:564][626]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_36
+[2024.10.24-17.49.32:559][851]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.32:560][851]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.32:561][851]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_37
+[2024.10.24-17.49.32:561][851]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_37
+[2024.10.24-17.49.33:618][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.33:618][951]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.33:619][951]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_38
+[2024.10.24-17.49.33:620][951]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_38
+[2024.10.24-17.49.37:601][401]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.37:601][401]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.37:603][401]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_39
+[2024.10.24-17.49.37:603][401]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_39
+[2024.10.24-17.49.38:751][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.38:751][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.49.38:753][514]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_40
+[2024.10.24-17.49.38:754][514]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_40
+[2024.10.24-17.49.41:854][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.49.41:878][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Maps/VR_Map" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.24-17.49.41:914][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.10.24-17.49.42:028][868]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map
+[2024.10.24-17.49.42:029][868]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VR_MapA31F34EA49828E2EF18B99B5DCCCBB60.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap'
+[2024.10.24-17.49.42:034][868]LogFileHelpers: All files are already saved.
+[2024.10.24-17.49.42:034][868]LogFileHelpers: Saving map 'VR_Map' took 0.157
+[2024.10.24-17.49.42:044][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 15.0 sec)
+[2024.10.24-17.49.42:046][868]AssetCheck: New page: Asset Save: VR_Map
+[2024.10.24-17.49.42:046][868]LogContentValidation: Display: Validating /Script/Engine.World /Game/VR/Maps/VR_Map.VR_Map
+[2024.10.24-17.49.54:459][307]MapCheck: New page: Map Check
+[2024.10.24-17.49.54:473][307]LightingResults: New page: Lighting Build - Oct 24, 2024, 5:49:54 AM
+[2024.10.24-17.49.54:494][307]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.10.24-17.49.54:496][307]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.10.24-17.49.54:496][307]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.10.24-17.49.54:497][307]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.10.24-17.49.54:497][307]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9592
+[2024.10.24-17.49.59:830][307]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.10.24-17.49.59:830][307]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.10.24-17.49.59:830][307]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.10.24-17.49.59:830][307]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.10.24-17.49.59:830][307]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.10.24-17.49.59:933][307]LogEditorBuildUtils: Build time 0:05
+[2024.10.24-17.49.59:961][307]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Total job queries 1,410, among them cache hits 637 (45.18%)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Tracking 751 distinct input hashes that result in 401 distinct outputs (53.40%)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: RAM used: 27.78 MiB of 3.20 GiB budget. Usage: 0.85%
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Shaders Compiled: 678
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Jobs assigned 678, completed 678 (100%)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Average time worker was idle: 48.29 s
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Time job spent in pending queue: average 0.66 s, longest 5.70 s
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Job execution time: average 1.02 s, max 5.09 s
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 6.51
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Shader code size: average 67.729 KiB, min 2.816 KiB, max 99.746 KiB
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 98.35 s
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Jobs were issued in 595 batches (only local compilation was used), average 1.14 jobs/batch
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Average processing rate: 6.89 jobs/sec
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Total thread time: 368.187 s
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Total thread preprocess time: 14.627 s
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Percentage time preprocessing: 3.97%
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Effective parallelization: 3.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   11 times, average 1.31 sec, max 1.44 sec, min 1.04 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   11 times, average 1.30 sec, max 1.44 sec, min 1.06 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   15 times, average 1.29 sec, max 1.50 sec, min 0.45 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   11 times, average 1.28 sec, max 1.38 sec, min 1.00 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   15 times, average 1.25 sec, max 1.54 sec, min 0.45 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 11.88% of total time (compiled   37 times, average 1.18 sec, max 1.45 sec, min 1.04 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.79% of total time (compiled   36 times, average 1.00 sec, max 1.51 sec, min 0.17 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.96% of total time (compiled   73 times, average 0.40 sec, max 1.46 sec, min 0.14 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.58% of total time (compiled   17 times, average 1.21 sec, max 1.55 sec, min 0.41 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.25% of total time (compiled   15 times, average 1.29 sec, max 1.50 sec, min 0.45 sec)
+[2024.10.24-17.49.59:962][307]LogShaderCompilers: Display: ================================================
+[2024.10.24-17.49.59:981][307]LogAutomationController: Ignoring very large delta of 5.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.24-17.50.01:380][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.10.24-17.50.05:283][680]Job is a success!
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.003s
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport:      Bricks at depth
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport:          0: 8.3% covering 100.0% of volume
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport:          1: 8.3% covering 1.6% of volume
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport:          2: 83.3% covering 0.2% of volume
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport:      Bricks in each level
+[2024.10.24-17.50.05:385][682]LogVolumetricLightmapImport:          VR_Map 			 12 bricks 	 100.0% (Persistent Level)
+[2024.10.24-17.50.05:548][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:579][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:586][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:595][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:603][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:612][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:620][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:629][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_4 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:636][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:645][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:652][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_6 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:661][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_6 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:668][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_7 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 147.979156 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:678][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_7 (TFO_DXT1, 1024x1024 x1x1x1) (Required Memory Estimate: 123.104155 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:686][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_8 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:689][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_8 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:694][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_9 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.479041 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:697][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_9 (TFO_DXT1, 256x256 x1x1x1) (Required Memory Estimate: 7.604136 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:699][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:HQ_Lightmap0_10 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.479156 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:707][682]LogTexture: Display: Building textures: /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData:LQ_Lightmap_0_10 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.229082 MB), EncodeSpeed: Fast
+[2024.10.24-17.50.05:841][682]LogStaticLightingSystem: VR_Map_BuiltData storing lightmap data for 140 meshes in 14 LightmapResourceClusters (10.0 Meshes per cluster).
+[2024.10.24-17.50.05:851][682]Lightmass on TEA-TOWER-500: 4.20 sec total, 179 ms importing, 84 ms setup, 796 ms photons, 3.13 sec processing, 0 us extra exporting [140/140 mappings]. Threads: 59.5 sec total, 27.5 sec processing.
+[2024.10.24-17.50.05:863][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.10.24-17.50.05:898][682]LogStaticLightingSystem: Illumination: 11.3 sec (215 ms encoding lightmaps, 127 ms encoding shadowmaps)
+[2024.10.24-17.50.05:898][682]LogStaticLightingSystem: Lightmap texture memory:  15.3 MB (15.3 MB streaming, 0.0 MB non-streaming), 20 textures
+[2024.10.24-17.50.05:898][682]LogStaticLightingSystem: Shadowmap texture memory: 5.0 MB (5.0 MB streaming, 0.0 MB non-streaming), 5 textures
+[2024.10.24-17.50.06:838][682]DumpUnbuiltLightIteractions
+[2024.10.24-17.50.06:838][682]Lights with unbuilt interactions: 0
+[2024.10.24-17.50.06:838][682]
+[2024.10.24-17.50.06:838][682]Primitives with unbuilt interactions: 0
+[2024.10.24-17.50.08:867][682]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2024.10.24-17.50.13:530][682]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 6.668209s (4.668209s overbudget)
+[2024.10.24-17.50.13:638][682]LogAutomationController: Ignoring very large delta of 8.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.10.24-17.50.13:639][683]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.10.24-17.50.13:639][683]MapCheck: New page: VR_Map - Oct 24, 2024, 5:50:13 AM
+[2024.10.24-17.50.13:640][683]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.394ms to complete.
+[2024.10.24-17.50.27:116][239]LogHttp: Warning: 00000B3B39FF2300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.50.27:116][239]LogHttp: Warning: 00000B3B39FF2300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.50.27:116][239]LogHttp: Warning: 00000B3B39FF2300: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.50.27:116][239]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.50.41:156][863]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.50.41:156][863]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.50.41:157][863]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_41
+[2024.10.24-17.50.41:158][863]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_41
+[2024.10.24-17.50.42:607][ 11]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.50.42:607][ 11]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VR/Blueprints/BP_climbable.BP_climbable_C
+[2024.10.24-17.50.42:608][ 11]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_42
+[2024.10.24-17.50.42:609][ 11]LogActorFactory: Actor Factory spawned Blueprint /Game/VR/Blueprints/BP_climbable.BP_climbable as actor: BP_climbable_C /Game/VR/Maps/VR_Map.VR_Map:PersistentLevel.BP_climbable_C_42
+[2024.10.24-17.50.44:152][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.50.44:176][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Maps/VR_Map" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.10.24-17.50.44:196][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.24-17.50.44:308][191]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map
+[2024.10.24-17.50.44:309][191]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VR_MapEEA4C5F94A70451F72D1B488FA8322E1.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map.umap'
+[2024.10.24-17.50.44:314][191]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VR/Maps/VR_Map_BuiltData
+[2024.10.24-17.50.44:314][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.24-17.50.44:314][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR/Maps/VR_Map_BuiltData" FILE="../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map_BuiltData.uasset" SILENT=true
+[2024.10.24-17.50.44:388][191]LogSavePackage: Moving output files for package: /Game/VR/Maps/VR_Map_BuiltData
+[2024.10.24-17.50.44:388][191]LogSavePackage: Moving '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Saved/VR_Map_BuiltData4DE5E0A64249F003B12624A911350482.tmp' to '../../../../../../Users/Tea/Documents/GitHub/FA24-AusdallTV/VR_Climb/Content/VR/Maps/VR_Map_BuiltData.uasset'
+[2024.10.24-17.50.44:389][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 15.1 sec)
+[2024.10.24-17.50.44:389][191]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/VR/Maps/VR_Map_BuiltData
+[2024.10.24-17.50.44:389][191]LogFileHelpers: Saving map 'VR_Map' took 0.214
+[2024.10.24-17.50.44:394][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 15.3 sec)
+[2024.10.24-17.50.44:396][191]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.24-17.50.44:396][191]LogContentValidation: Display: Validating /Script/Engine.World /Game/VR/Maps/VR_Map.VR_Map
+[2024.10.24-17.50.44:396][191]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/VR/Maps/VR_Map_BuiltData.VR_Map_BuiltData
+[2024.10.24-17.50.57:177][686]LogDebuggerCommands: Repeating last play command: VR Preview
+[2024.10.24-17.50.57:183][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.24-17.50.57:183][686]PIE: New page: PIE session: VR_Map (Oct 24, 2024, 5:50:57 AM)
+[2024.10.24-17.50.57:216][686]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2024.10.24-17.50.57:218][686]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.10.24-17.50.57:230][687]LogPlayLevel: Creating play world package: /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.50.57:243][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013156s)
+[2024.10.24-17.50.57:243][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR/Maps/VR_Map.VR_Map to /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map (0.013194s)
+[2024.10.24-17.50.57:250][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.10.24-17.50.57:252][687]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.24-17.50.57:252][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.24-17.50.57:252][687]LogAIModule: Creating AISystem for world VR_Map
+[2024.10.24-17.50.57:253][687]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2024.10.24-17.50.57:253][687]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.10.24-17.50.57:253][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.24-17.50.57:253][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.24-17.50.57:253][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.24-17.50.57:253][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.24-17.50.57:253][687]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.24-17.50.57:253][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.24-17.50.57:253][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.24-17.50.57:253][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.24-17.50.57:253][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.24-17.50.57:253][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.24-17.50.57:253][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.24-17.50.57:255][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.24-17.50.57:271][687]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek USB Audio)
+[2024.10.24-17.50.57:271][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.24-17.50.57:271][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.24-17.50.57:271][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.24-17.50.57:272][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.10.24-17.50.57:272][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.10.24-17.50.57:273][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.10.24-17.50.57:273][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.10.24-17.50.57:273][687]LogInit: FAudioDevice initialized with ID 9.
+[2024.10.24-17.50.57:273][687]LogAudio: Display: Audio Device (ID: 9) registered with world 'VR_Map'.
+[2024.10.24-17.50.57:273][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.24-17.50.57:282][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.50.57:349][687]LogLoad: Game class is 'VRGameMode_C'
+[2024.10.24-17.50.57:354][687]LogWorld: Bringing World /Game/VR/Maps/UEDPIE_0_VR_Map.VR_Map up for play (max tick rate 0) at 2024.10.24-11.50.57
+[2024.10.24-17.50.57:354][687]LogWorld: Bringing up level for play took: 0.004844
+[2024.10.24-17.50.57:356][687]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.10.24-17.50.57:358][687]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.50.57:359][687]vr.PixelDensity = "1"
+[2024.10.24-17.50.57:364][687]PIE: Server logged in
+[2024.10.24-17.50.57:367][687]PIE: Play in editor total start time 0.184 seconds.
+[2024.10.24-17.50.57:374][687]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2024.10.24-17.50.57:390][687]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2024.10.24-17.51.27:124][491]LogHttp: Warning: 00000B3B06267800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.51.27:124][491]LogHttp: Warning: 00000B3B06267800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.51.27:124][491]LogHttp: Warning: 00000B3B06267800: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.51.27:124][491]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.24-17.51.52:722][328]Cmd: quit
+[2024.10.24-17.51.52:723][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.24-17.51.52:723][328]LogWorld: BeginTearingDown for /Game/VR/Maps/UEDPIE_0_VR_Map
+[2024.10.24-17.51.52:745][328]LogSlate: Window 'VR_Climb Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6) OpenXR Oculus (1.101.0)' being destroyed
+[2024.10.24-17.51.52:747][328]LogWorld: UWorld::CleanupWorld for VR_Map, bSessionEnded=true, bCleanupResources=true
+[2024.10.24-17.51.52:748][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.51.52:751][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.24-17.51.52:754][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.24-17.51.52:764][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.10.24-17.51.52:764][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.24-17.51.52:766][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.10.24-17.51.52:773][328]LogSlate: Slate User Unregistered.  User Index 8
+[2024.10.24-17.51.52:773][328]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.10.24-17.51.52:775][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.24-17.51.52:881][330]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.10.24-17.51.58:432][996]Cmd: SELECT NONE
+[2024.10.24-17.52.05:726][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.10.24-17.52.27:699][719]LogHttp: Warning: 00000B3B39755500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.24-17.52.27:699][719]LogHttp: Warning: 00000B3B39755500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.24-17.52.27:699][719]LogHttp: Warning: 00000B3B39755500: libcurl info message cache 1 (Closing connection)
+[2024.10.24-17.52.27:699][719]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF6D1E2-4467-C50F-162A-CF8C9412529F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=ef3da00244e01f54cfb35589c38b929b%7C9ba34416f61541d7baccd9e6f83e13d8%7C26d7b02d-14a5-4cfb-b777-f3c902f7d31d&AppEnvironment=datacollector-binary&UploadType=eteventstream
