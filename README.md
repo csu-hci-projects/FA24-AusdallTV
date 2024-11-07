@@ -18,4 +18,4 @@ I also used the blender default keymap reference when working on blender project
 * [Default Keymap](https://docs.blender.org/manual/en/latest/interface/keymap/blender_default.html)
 <!-- comment to get the list to exit -->
 The Unreal Engine VR 5.3.2 Template was used as a basis when starting on this project. <br />
-The rock model (low poly) was made by me working on a previous project and was reused here.
+The rock and crystal models (2 models total) were made by me working on a previous project and was reused here.
