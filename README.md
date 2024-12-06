@@ -3,6 +3,9 @@
 Focused on climb-based locomotion in unreal engine VR. Project is developed & tested with the Oculus Quest 2.
 Ground based locomotion is connected with the climb locomotion system, allowing for 1:1 mapped virtual movement based on hand movement.
 
+## To run
+It is an unreal engine 5.3.2 project. To use it, open it in unreal engine 5.3.2, build lighting, then Play this Level in VR.
+
 ## Citations & Resources Used:
 Some of the player collision and playspace movement was loosely based on “Environment Collision in Virtual Reality - Unreal Engine VR Tutorial” - VR Playground <br />
 [Environment Collision in Virtual Reality - Unreal Engine VR Tutorial](https://www.youtube.com/watch?v=hxgx53ZoO7Q) <br />
